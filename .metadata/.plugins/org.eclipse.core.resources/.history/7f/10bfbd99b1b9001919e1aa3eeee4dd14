@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Welcome</title>
+</head>
+<body>
+hello {{name}}
+나이 {{age}}
+</body>
+</html>
