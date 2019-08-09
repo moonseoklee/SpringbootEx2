@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 8 elements to &apos;static&apos;&#x0D;&#x0A;- Original project: &apos;web-application-server&apos;&#x0D;&#x0A;- Destination element: &apos;static&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     favicon.ico&#x0D;&#x0A;     index.html&#x0D;&#x0A;     js&#x0D;&#x0A;     qna&#x0D;&#x0A;     css&#x0D;&#x0A;     fonts&#x0D;&#x0A;     images&#x0D;&#x0A;     user" description="Copy elements" element1="webapp/favicon.ico" element2="webapp/index.html" element3="webapp/js" element4="webapp/qna" element5="webapp/css" element6="webapp/fonts" element7="webapp/images" element8="webapp/user" files="2" flags="589830" folders="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1565333335936" target="/my-slipp/src/main/resources/static" units="0" version="1.0"/>
+</session>
