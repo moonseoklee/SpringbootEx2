@@ -8,11 +8,11 @@
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="get"/>
 			<item value="create"/>
 			<item value="회원가입"/>
 			<item value="posts"/>
 			<item value="수정"/>
-			<item value="get"/>
 			<item value="post"/>
 			<item value="mu"/>
 			<item value="brand"/>

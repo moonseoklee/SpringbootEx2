@@ -5,4 +5,5 @@
 <fullyQualifiedTypeName name="java.util.Arrays"/>
 <fullyQualifiedTypeName name="javax.persistence.Entity"/>
 <fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="net.slipp.domain.User"/>
 </qualifiedTypeNameHistroy>

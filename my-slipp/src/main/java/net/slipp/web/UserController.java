@@ -28,7 +28,7 @@ public class UserController {
 	
 	@GetMapping("/loginForm")
 	public String loginForm(){
-		return "/user/login";
+		return "user/login";
 	}
 	
 	@PostMapping("/login")
@@ -36,23 +36,25 @@ public class UserController {
 		User user = userRepository.findByUserId(userId);
 		
 		if(user==null) {
-			return "redirect:/user/loginform";
-		}
-		
-		else if(!password.equals(user.getPassword())) {
-			return "redirect:/user/loginform";
+			return "redirect:/user/loginForm";
 		}
 		
 		
 		
-		session.setAttribute("user",user);
+		if(!user.matchPassword(password)) {
+			return "redirect:/user/loginForm";
+		}
+		
+		
+		
+		session.setAttribute(HttpSessionUtils.USER_SESSION_KEY,user);
 		
 		return "redirect:/";
 	}
 	
 	@GetMapping("/logout")
 	public String logout(HttpSession session) {
-		session.removeAttribute("user");
+		session.removeAttribute(HttpSessionUtils.USER_SESSION_KEY);
 		return "redirect:/";
 	}
 	
@@ -75,16 +77,40 @@ public class UserController {
 		return "/user/list";
 	}
 	
-	@GetMapping("{id}/form")
-	public String updateForm(@PathVariable Long id,Model model) {
+	@GetMapping("/{id}/updateForm")
+	public String updateForm(@PathVariable Long id,Model model,HttpSession session) {
+		
+		if(!HttpSessionUtils.isLoginUser(session)) {
+			
+			return "/user/loginForm";
+		}
+		
+		User tempUser = HttpSessionUtils.getUserFromSession(session);
+		
+		if(!tempUser.matchId(id)) {
+			throw new IllegalStateException("shit");
+		}
+		
+		
 		model.addAttribute("users",userRepository.findById(id).get());
+		
 		return "/user/updateForm";
 	}
 	
 	@PutMapping("/{id}")
-	public String update(@PathVariable Long id, User newUser) {
-		User user = userRepository.findById(id).get();
+	public String update(@PathVariable Long id, User newUser,HttpSession session) {
+
+		if(!HttpSessionUtils.isLoginUser(session)) {
+			return "redirect:/users/loginForm";
+		}
 		
+		User sessionedUser = HttpSessionUtils.getUserFromSession(session);
+		if(!sessionedUser.matchId(id)) {
+			throw new IllegalStateException("shit");
+		}
+		
+		
+		User user = userRepository.findById(id).get();		
 		user.update(newUser);
 		userRepository.save(user);
 		 
