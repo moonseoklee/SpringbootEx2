@@ -55,16 +55,42 @@ public class QuestionController {
 	}
 	
 	@GetMapping("/{id}/form")
-	public String updateForm(@PathVariable Long id,Model model) {
+	public String updateForm(@PathVariable Long id,Model model,HttpSession session) {
+		
+		if(!HttpSessionUtils.isLoginUser(session)){
+			return "/user/loginForm";
+		}
+		
+		User loginUser = HttpSessionUtils.getUserFromSession(session);
+		
+		
 		Question question = questionRepository.findById(id).get();
+		
+		if(!question.isSameWriter(loginUser)) {
+			return "/user/loginForm";
+		}
+		
 		model.addAttribute("questions",question);
 		
 		return "/qna/updateForm";
 	}
 	
 	@PutMapping("/{id}")
-	public String update(@PathVariable Long id,String title,String contents) {
+	public String update(@PathVariable Long id,String title,String contents,HttpSession session) {
+		
+		if(!HttpSessionUtils.isLoginUser(session)){
+			return "/user/loginForm";
+		}
+		
+		User loginUser = HttpSessionUtils.getUserFromSession(session);
+		
+		
 		Question question = questionRepository.findById(id).get();
+		
+		if(!question.isSameWriter(loginUser)) {
+			return "/user/loginForm";
+		}
+		
 		question.update(title,contents);
 		questionRepository.save(question);
 		return String.format("redirect:/questions/%d",id);

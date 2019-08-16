@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-<typeInfo handle="=my-slipp/src\/main\/java&lt;net.slipp.web{UserController.java[UserController" modifiers="1" timestamp="1565596285623"/>
+<typeInfo handle="=my-slipp/src\/main\/java&lt;net.slipp.web{UserController.java[UserController" modifiers="1" timestamp="1565692270170"/>
+<typeInfo handle="=my-slipp/src\/main\/java&lt;net.slipp.web{QuestionController.java[QuestionController" modifiers="1" timestamp="1565921264436"/>
+<typeInfo handle="=web-application-server/src\/main\/java&lt;model{User.java[User" modifiers="1" timestamp="1565920759429"/>
 </typeInfoHistroy>

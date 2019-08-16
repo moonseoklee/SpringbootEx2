@@ -1,0 +1,16 @@
+package net.slipp.web;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+@RequestMapping("/questions/{questionId}/answers")
+public class AnswerController {
+	@PostMapping
+	public String create() {
+	
+		return "";
+	}
+}

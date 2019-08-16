@@ -4615,3 +4615,250 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2019-08-14 19:39:26,716 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-08-14 19:39:26,719 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-08-14 19:39:26,733 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-14 19:39:26,812 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-14 19:39:26,861 [Worker-138: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 10:21:46,185 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-08-16 10:36:25,019 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 10:36:25,038 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 10:36:26,676 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 10:36:27,556 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 10:36:27,556 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 10:37:05,922 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 10:37:05,964 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 10:37:06,064 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 10:37:06,090 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 10:37:06,091 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 10:41:00,690 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 10:41:00,692 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 10:41:00,702 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 10:41:00,703 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\web-application-server\src\test\resources
+2019-08-16 10:41:16,371 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - junit-4.11.jar already exists in destination.
+2019-08-16 10:41:16,382 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - logback-core-1.1.2.jar already exists in destination.
+2019-08-16 10:41:16,382 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - slf4j-api-1.7.6.jar already exists in destination.
+2019-08-16 10:41:16,382 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - hamcrest-core-1.3.jar already exists in destination.
+2019-08-16 10:41:16,382 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - logback-classic-1.1.2.jar already exists in destination.
+2019-08-16 10:41:16,390 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - guava-18.0.jar already exists in destination.
+2019-08-16 10:48:52,050 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 10:48:52,062 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 10:48:52,108 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 10:48:52,147 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 10:48:52,148 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 10:57:28,775 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 10:57:28,784 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 10:57:28,810 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 10:57:28,834 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 10:57:28,847 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 10:57:30,066 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 10:57:30,096 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 10:57:30,140 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 10:57:30,168 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 10:57:30,168 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 10:58:51,192 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 10:58:51,201 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 10:58:51,295 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 10:58:51,309 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 10:58:51,343 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 10:58:54,160 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 10:58:54,224 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 10:58:54,299 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 10:58:54,347 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 10:58:54,348 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 10:59:19,696 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 10:59:19,696 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 10:59:19,713 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 10:59:19,722 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\web-application-server\src\test\resources
+2019-08-16 11:00:19,968 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:00:19,981 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:00:20,004 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:00:20,051 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:00:20,067 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:02:22,694 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:02:22,709 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:02:22,725 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:02:22,740 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:02:22,740 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:05:33,699 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:05:33,714 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:05:33,740 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:05:33,764 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:05:33,796 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:05:54,688 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:05:54,710 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:05:54,737 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:05:54,764 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:05:54,764 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:05:59,185 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:05:59,195 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:05:59,244 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:05:59,274 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:05:59,295 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:06:15,299 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:06:15,352 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:06:15,416 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:06:15,561 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:06:15,561 [Worker-43: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:06:46,790 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:06:46,813 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:06:47,011 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:06:47,028 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:06:47,066 [Worker-37: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:07:06,179 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:07:06,282 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:07:06,308 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:07:06,491 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:07:06,491 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:07:45,764 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:07:45,778 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:07:45,874 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:07:45,980 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:07:46,023 [Worker-42: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:41:05,658 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:41:05,669 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:41:05,719 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:41:05,758 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:41:05,759 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:44:46,547 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:44:46,557 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:44:46,572 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:44:46,582 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:44:46,598 [Worker-50: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:46:17,888 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:46:19,261 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:46:19,285 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:46:19,310 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:46:19,310 [Worker-51: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:46:46,220 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:46:46,233 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:46:46,266 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:46:46,298 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:46:46,324 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:47:11,281 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:47:11,305 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:47:11,327 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:47:11,345 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:47:11,346 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:47:27,630 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:47:27,641 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:47:27,667 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:47:27,679 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:47:27,679 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:48:17,050 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:48:17,063 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:48:17,077 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:48:17,105 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:48:17,105 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:48:39,857 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:48:39,864 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:48:39,888 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:48:39,909 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:48:39,923 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:49:09,839 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:49:09,859 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:49:09,878 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:49:09,900 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:49:09,900 [Worker-49: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:51:53,715 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:51:53,721 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-16 11:51:53,724 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:51:53,747 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:51:53,789 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:52:11,669 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:52:11,689 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-16 11:52:11,709 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:52:11,775 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:52:11,776 [Worker-53: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:53:07,371 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:53:07,381 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:53:07,408 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:53:07,435 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:53:07,452 [Worker-52: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:53:50,905 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:53:50,933 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:53:51,000 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:53:51,038 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:53:51,038 [Worker-48: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:53:57,350 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:53:57,359 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:53:57,372 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:53:57,383 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:53:57,384 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 11:53:59,251 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:53:59,260 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 11:53:59,273 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 11:53:59,306 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 11:53:59,306 [Worker-36: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 12:13:48,826 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:13:48,870 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 12:13:48,909 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 12:13:48,963 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:13:48,998 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 12:14:42,570 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:14:42,592 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 12:14:42,615 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 12:14:42,634 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:14:42,635 [Worker-59: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 12:15:00,953 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:15:00,962 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 12:15:00,975 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 12:15:00,988 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:15:01,029 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 12:17:19,784 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:17:19,799 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-16 12:17:19,814 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 12:17:19,838 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:17:19,838 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 12:17:21,631 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:17:21,632 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-16 12:17:21,653 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 12:17:21,674 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:17:21,687 [Worker-56: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 12:17:29,845 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:17:29,871 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 12:17:29,898 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 12:17:29,916 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:17:29,916 [Worker-58: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 12:19:53,377 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:19:53,385 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 12:19:53,400 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 12:19:53,412 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:19:53,413 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 12:20:30,036 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:20:30,047 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 12:20:30,060 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 12:20:30,091 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:20:30,092 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 12:20:55,344 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:20:55,349 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 12:20:55,365 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 12:20:55,379 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:20:55,388 [Worker-66: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 12:21:18,336 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:21:18,351 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 12:21:18,377 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 12:21:18,397 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:21:18,397 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 12:21:30,083 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:21:30,102 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 12:21:30,118 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 12:21:30,130 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:21:30,143 [Worker-63: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 12:24:13,672 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:24:13,700 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 12:24:13,730 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 12:24:13,756 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:24:13,757 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 12:24:37,567 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:24:37,577 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 12:24:37,693 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 12:24:37,729 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:24:37,771 [Worker-70: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 12:24:53,152 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:24:53,170 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 12:24:53,194 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 26 resources
+2019-08-16 12:24:53,213 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:24:53,213 [Worker-73: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
+2019-08-16 12:26:12,340 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:26:12,341 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-16 12:26:12,342 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-08-16 12:26:12,353 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-16 12:26:12,354 [Worker-68: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\winny\OneDrive\πŸ≈¡ »≠∏È\MS\coding\youtube\my-slipp\src\test\resources
